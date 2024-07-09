@@ -1,0 +1,15 @@
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.csproj.AssemblyReference.cache
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.AssemblyInfoInputs.cache
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.AssemblyInfo.cs
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.csproj.CoreCompileInputs.cache
+D:\GitHub\PrisonersTournament\bin\Debug\net7.0\PrisonersTournament.exe
+D:\GitHub\PrisonersTournament\bin\Debug\net7.0\PrisonersTournament.deps.json
+D:\GitHub\PrisonersTournament\bin\Debug\net7.0\PrisonersTournament.runtimeconfig.json
+D:\GitHub\PrisonersTournament\bin\Debug\net7.0\PrisonersTournament.dll
+D:\GitHub\PrisonersTournament\bin\Debug\net7.0\PrisonersTournament.pdb
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.dll
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\refint\PrisonersTournament.dll
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.pdb
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\PrisonersTournament.genruntimeconfig.cache
+D:\GitHub\PrisonersTournament\obj\Debug\net7.0\ref\PrisonersTournament.dll
